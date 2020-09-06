@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://805bluebell.github.io/categories/</loc>
-    <lastmod>2020-01-29T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -18,13 +18,23 @@
   </url>
   
   <url>
-    <loc>https://805bluebell.github.io/posts/my-current-progress/</loc>
-    <lastmod>2020-01-29T00:00:00+00:00</lastmod>
+    <loc>https://805bluebell.github.io/tags/dict/</loc>
+    <lastmod>2020-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/tags/hash/</loc>
+    <lastmod>2020-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/tags/list/</loc>
+    <lastmod>2020-08-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://805bluebell.github.io/</loc>
-    <lastmod>2020-01-29T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -39,6 +49,121 @@
   
   <url>
     <loc>https://805bluebell.github.io/posts/</loc>
+    <lastmod>2020-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/categories/programming/</loc>
+    <lastmod>2020-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/tags/python/</loc>
+    <lastmod>2020-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/posts/python-global-and-local-variables/</loc>
+    <lastmod>2020-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/tags/</loc>
+    <lastmod>2020-08-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://805bluebell.github.io/pt-br/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://805bluebell.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/categories/technology/</loc>
+    <lastmod>2020-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/tags/fedora/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/tags/linux/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/categories/linux/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/posts/migrating-to-fedora/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/tags/os/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/tags/ubuntu/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/tags/recursion/</loc>
+    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/posts/recursion-limit-in-pyhton/</loc>
+    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/posts/fedora-touchpad-not-working/</loc>
+    <lastmod>2020-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/tags/touchpad/</loc>
+    <lastmod>2020-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/tags/crush/</loc>
+    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/tags/date/</loc>
+    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/posts/deepika/</loc>
+    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/tags/girl/</loc>
+    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/categories/personal/</loc>
+    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/posts/my-current-progress/</loc>
     <lastmod>2020-01-29T00:00:00+00:00</lastmod>
   </url>
   
@@ -53,42 +178,12 @@
   </url>
   
   <url>
-    <loc>https://805bluebell.github.io/tags/</loc>
-    <lastmod>2020-01-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://805bluebell.github.io/pt-br/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://805bluebell.github.io/tags/"
-                />
-  </url>
-  
-  <url>
     <loc>https://805bluebell.github.io/tags/c&#43;&#43;/</loc>
     <lastmod>2019-12-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://805bluebell.github.io/posts/multithreading-in-cpp-n-python/</loc>
-    <lastmod>2019-12-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://805bluebell.github.io/categories/programming/</loc>
-    <lastmod>2019-12-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://805bluebell.github.io/tags/python/</loc>
-    <lastmod>2019-12-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://805bluebell.github.io/categories/technology/</loc>
     <lastmod>2019-12-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -113,22 +208,7 @@
   </url>
   
   <url>
-    <loc>https://805bluebell.github.io/tags/dict/</loc>
-    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://805bluebell.github.io/posts/ditch-list-use-dict-in-python/</loc>
-    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://805bluebell.github.io/tags/hash/</loc>
-    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://805bluebell.github.io/tags/list/</loc>
     <lastmod>2019-11-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -140,6 +220,211 @@
   <url>
     <loc>https://805bluebell.github.io/posts/python-for-competitive-programming/</loc>
     <lastmod>2019-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/posts/timetablegate2019.pdf/</loc>
+    <lastmod>2018-08-13T22:45:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/posts/trip-to-iit-madras-part-c/</loc>
+    <lastmod>2017-05-02T22:43:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/posts/trip-to-iit-madras-part-b/</loc>
+    <lastmod>2017-05-02T19:09:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/posts/trip-to-iit-madras-part-a/</loc>
+    <lastmod>2017-04-30T18:09:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/posts/dadar-day-1/</loc>
+    <lastmod>2016-11-13T09:41:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/posts/getting-in-the-flow/</loc>
+    <lastmod>2016-11-10T18:26:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/posts/my-aspiring-future-days/</loc>
+    <lastmod>2016-11-09T00:29:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/posts/seeking-direction-in-middle-of-course/</loc>
+    <lastmod>2016-11-08T07:39:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/posts/a-good-day-at-classes/</loc>
+    <lastmod>2016-08-06T19:07:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/posts/plan-for-swot/</loc>
+    <lastmod>2016-08-04T10:48:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/posts/ventures-never-fail-only-have-unexpected-outcomes./</loc>
+    <lastmod>2016-07-29T23:44:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/posts/you-cant-see-yourself-climb-to-success/</loc>
+    <lastmod>2016-07-29T23:43:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/posts/leaving-out-of-godrej/</loc>
+    <lastmod>2016-06-16T20:33:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/posts/things-to-do-in-headon-future-/</loc>
+    <lastmod>2016-05-08T05:19:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/posts/read/</loc>
+    <lastmod>2016-04-30T10:05:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/posts/tuesday-notes/</loc>
+    <lastmod>2016-03-22T05:13:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/posts/dont-know-what-to-do/</loc>
+    <lastmod>2016-03-14T08:55:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/posts/wanted-decisions/</loc>
+    <lastmod>2016-03-11T18:53:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/posts/jyoti-yadav/</loc>
+    <lastmod>2016-03-11T00:31:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/posts/sandhya-chowdhary-1.1/</loc>
+    <lastmod>2016-03-08T05:11:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/posts/best-life-tips/</loc>
+    <lastmod>2016-03-06T09:37:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/posts/failed-ventures/</loc>
+    <lastmod>2016-03-04T09:17:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/posts/industrial-life-begins/</loc>
+    <lastmod>2015-08-05T04:44:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/posts/resolution-to-move-forward/</loc>
+    <lastmod>2015-07-26T10:31:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/posts/all-india-bakchod-raju-srivastava-part-1/</loc>
+    <lastmod>2015-04-22T03:04:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/posts/the-down-side/</loc>
+    <lastmod>2015-01-05T09:44:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/posts/winter-holidays-ending-review/</loc>
+    <lastmod>2015-01-02T08:39:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/posts/design-of-connecting-rod-machine-design-term-project/</loc>
+    <lastmod>2014-12-30T23:40:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/posts/trek-to-kalavantin-durg/</loc>
+    <lastmod>2014-12-25T21:47:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/posts/making-hull-of-rc-boat-practise-with-mountboard/</loc>
+    <lastmod>2014-12-18T20:12:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/posts/inventory-control-with-case-study/</loc>
+    <lastmod>2014-10-27T09:43:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/posts/ones-method-operations-research/</loc>
+    <lastmod>2014-10-27T09:41:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/posts/the-successful-interview/</loc>
+    <lastmod>2014-10-08T11:41:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/posts/you-were-not-selected/</loc>
+    <lastmod>2014-10-02T01:03:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/posts/installing-ansys-15.0-x64/</loc>
+    <lastmod>2014-09-04T05:58:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/posts/30-aug-aptitude-test/</loc>
+    <lastmod>2014-08-30T09:28:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/posts/uhde-india-aptitude-test-interview/</loc>
+    <lastmod>2014-08-21T12:35:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/posts/what-are-public-sector-companies-/</loc>
+    <lastmod>2014-08-13T04:27:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/posts/water-and-ice-melting/</loc>
+    <lastmod>2014-06-22T08:47:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/posts/rainy-soccer/</loc>
+    <lastmod>2014-06-16T09:27:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/posts/bare-beginnings/</loc>
+    <lastmod>2014-06-13T02:53:00+00:00</lastmod>
   </url>
   
   <url>

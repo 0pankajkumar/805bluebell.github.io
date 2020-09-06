@@ -6,24 +6,15 @@
     <description>Recent content in Categories on pankajkumar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://805bluebell.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>self-improvement</title>
-      <link>https://805bluebell.github.io/categories/self-improvement/</link>
-      <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://805bluebell.github.io/categories/self-improvement/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>programming</title>
       <link>https://805bluebell.github.io/categories/programming/</link>
-      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://805bluebell.github.io/categories/programming/</guid>
       <description></description>
@@ -32,9 +23,36 @@
     <item>
       <title>technology</title>
       <link>https://805bluebell.github.io/categories/technology/</link>
-      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://805bluebell.github.io/categories/technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://805bluebell.github.io/categories/linux/</link>
+      <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://805bluebell.github.io/categories/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>personal</title>
+      <link>https://805bluebell.github.io/categories/personal/</link>
+      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://805bluebell.github.io/categories/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>self-improvement</title>
+      <link>https://805bluebell.github.io/categories/self-improvement/</link>
+      <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://805bluebell.github.io/categories/self-improvement/</guid>
       <description></description>
     </item>
     

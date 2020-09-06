@@ -6,10 +6,58 @@
     <description>Recent content in Posts on pankajkumar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://805bluebell.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Python Global and Local variables</title>
+      <link>https://805bluebell.github.io/posts/python-global-and-local-variables/</link>
+      <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://805bluebell.github.io/posts/python-global-and-local-variables/</guid>
+      <description>Global &amp;amp; Local Variables in Python </description>
+    </item>
+    
+    <item>
+      <title>Migrating to Fedora from Ubuntu</title>
+      <link>https://805bluebell.github.io/posts/migrating-to-fedora/</link>
+      <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://805bluebell.github.io/posts/migrating-to-fedora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recursion limit in Python</title>
+      <link>https://805bluebell.github.io/posts/recursion-limit-in-pyhton/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://805bluebell.github.io/posts/recursion-limit-in-pyhton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fedora touchpad not working in laptop</title>
+      <link>https://805bluebell.github.io/posts/fedora-touchpad-not-working/</link>
+      <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://805bluebell.github.io/posts/fedora-touchpad-not-working/</guid>
+      <description>[Solved] Fedora 32 touchpad not working Last week I installed Fedora to get the other side of distos. From the beginning I have been with the Debain family. Tried Ubuntu, Debian &amp;amp; linux Mint.
+Now Fedora 32 installed nicely on my laptop.
+Specification: Dell Latitude 3380 Memory : 8 GB Processor : Intel Core i3-6006U CPU @ 2.00 GHz Disk: 500 GB Type: 64 bits The problem The touchpad didn&amp;rsquo;t work after installing Fedora 32.</description>
+    </item>
+    
+    <item>
+      <title>Deepika</title>
+      <link>https://805bluebell.github.io/posts/deepika/</link>
+      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://805bluebell.github.io/posts/deepika/</guid>
+      <description>Deepika not padukone She is an ex-collegue. We used to sit in a long bay with all the team of Talent aquisition.
+Here is my first impression of her. I hardly noiticed her in the sea of people sitting in the bay. I first noticed her when she went to europe trip. That was one thing which she did from the rest to catch my attention. She travelled with one of her friend &amp;amp; posted a lot of facinating pictures on instagram.</description>
+    </item>
     
     <item>
       <title>My current progress</title>
@@ -63,6 +111,375 @@ import time d = dict() for i in range(10000000): d[i] = True e = list() for i in
       <guid>https://805bluebell.github.io/posts/python-for-competitive-programming/</guid>
       <description>My first Cookoff Last night I was participating in CodeChef October Cookoff for the first time. It was a good experience even though I could solve one problem completely &amp;amp; two others partially attempted out of total five.
 So, there’s a language debate over which should be better for competitive programming. I natively speak in python though I started off with C/C++ family. So, let’s see some comparison over a brute force solution to a problem written in Python (A slow language) and C++ (A fast language).</description>
+    </item>
+    
+    <item>
+      <title>TimeTableGate2019.pdf</title>
+      <link>https://805bluebell.github.io/posts/timetablegate2019.pdf/</link>
+      <pubDate>Mon, 13 Aug 2018 22:45:00 +0000</pubDate>
+      
+      <guid>https://805bluebell.github.io/posts/timetablegate2019.pdf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trip to IIT madras: Part C</title>
+      <link>https://805bluebell.github.io/posts/trip-to-iit-madras-part-c/</link>
+      <pubDate>Tue, 02 May 2017 22:43:00 +0000</pubDate>
+      
+      <guid>https://805bluebell.github.io/posts/trip-to-iit-madras-part-c/</guid>
+      <description>Disclaimer: This is flow of my mind &amp;amp; not a well maintained piece of writing.The bus was 2+2 semi sleeper of volvo brand but old one. It was comfortable. But soon the A/C started chilling us as we approached lonavala. I went down at lonavala for a pee &amp;amp; started sneezing and shivering, sure signs of hitting cold. I quickly ran inside the bus and covered myself in the warmth of blanket.</description>
+    </item>
+    
+    <item>
+      <title>Trip to IIT madras : part B</title>
+      <link>https://805bluebell.github.io/posts/trip-to-iit-madras-part-b/</link>
+      <pubDate>Tue, 02 May 2017 19:09:00 +0000</pubDate>
+      
+      <guid>https://805bluebell.github.io/posts/trip-to-iit-madras-part-b/</guid>
+      <description>Disclaimer: This is flow of my mind &amp;amp; not a well maintained piece of writing.At office I told everything exactly. Two days interview &amp;amp; test and I will be absent. I did this because we had an understanding &amp;amp; agreement before I was rolled in that I will be leaving as soon as I get masters opprtunity.Anyways, the milkman milking cow is curious about how much time she will not give milk &amp;amp; how often.</description>
+    </item>
+    
+    <item>
+      <title>Trip to IIT madras: Part A</title>
+      <link>https://805bluebell.github.io/posts/trip-to-iit-madras-part-a/</link>
+      <pubDate>Sun, 30 Apr 2017 18:09:00 +0000</pubDate>
+      
+      <guid>https://805bluebell.github.io/posts/trip-to-iit-madras-part-a/</guid>
+      <description>Disclaimer: This is flow of my mind &amp;amp; not a well maintained piece of writing.Since I had applied for gate exam, naturally I had to apply for iits. I applied to top ones only. That too at bombay and madras only. Due to low self esteem after result declaration with AIR 9750 I was sure that no call will come for general category. And it happened like that way. But quite unusually I got a call for MS at iit madras.</description>
+    </item>
+    
+    <item>
+      <title>Dadar - day 1</title>
+      <link>https://805bluebell.github.io/posts/dadar-day-1/</link>
+      <pubDate>Sun, 13 Nov 2016 09:41:00 +0000</pubDate>
+      
+      <guid>https://805bluebell.github.io/posts/dadar-day-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Getting in the flow</title>
+      <link>https://805bluebell.github.io/posts/getting-in-the-flow/</link>
+      <pubDate>Thu, 10 Nov 2016 18:26:00 +0000</pubDate>
+      
+      <guid>https://805bluebell.github.io/posts/getting-in-the-flow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My aspiring future days</title>
+      <link>https://805bluebell.github.io/posts/my-aspiring-future-days/</link>
+      <pubDate>Wed, 09 Nov 2016 00:29:00 +0000</pubDate>
+      
+      <guid>https://805bluebell.github.io/posts/my-aspiring-future-days/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seeking direction in middle of course</title>
+      <link>https://805bluebell.github.io/posts/seeking-direction-in-middle-of-course/</link>
+      <pubDate>Tue, 08 Nov 2016 07:39:00 +0000</pubDate>
+      
+      <guid>https://805bluebell.github.io/posts/seeking-direction-in-middle-of-course/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A good day at classes</title>
+      <link>https://805bluebell.github.io/posts/a-good-day-at-classes/</link>
+      <pubDate>Sat, 06 Aug 2016 19:07:00 +0000</pubDate>
+      
+      <guid>https://805bluebell.github.io/posts/a-good-day-at-classes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plan for swot</title>
+      <link>https://805bluebell.github.io/posts/plan-for-swot/</link>
+      <pubDate>Thu, 04 Aug 2016 10:48:00 +0000</pubDate>
+      
+      <guid>https://805bluebell.github.io/posts/plan-for-swot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ventures never fail, only have unexpected outcomes.</title>
+      <link>https://805bluebell.github.io/posts/ventures-never-fail-only-have-unexpected-outcomes./</link>
+      <pubDate>Fri, 29 Jul 2016 23:44:00 +0000</pubDate>
+      
+      <guid>https://805bluebell.github.io/posts/ventures-never-fail-only-have-unexpected-outcomes./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>You can&#39;t see yourself climb to success</title>
+      <link>https://805bluebell.github.io/posts/you-cant-see-yourself-climb-to-success/</link>
+      <pubDate>Fri, 29 Jul 2016 23:43:00 +0000</pubDate>
+      
+      <guid>https://805bluebell.github.io/posts/you-cant-see-yourself-climb-to-success/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leaving out of Godrej</title>
+      <link>https://805bluebell.github.io/posts/leaving-out-of-godrej/</link>
+      <pubDate>Thu, 16 Jun 2016 20:33:00 +0000</pubDate>
+      
+      <guid>https://805bluebell.github.io/posts/leaving-out-of-godrej/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Things to do in Headon future 🔮</title>
+      <link>https://805bluebell.github.io/posts/things-to-do-in-headon-future-/</link>
+      <pubDate>Sun, 08 May 2016 05:19:00 +0000</pubDate>
+      
+      <guid>https://805bluebell.github.io/posts/things-to-do-in-headon-future-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>read</title>
+      <link>https://805bluebell.github.io/posts/read/</link>
+      <pubDate>Sat, 30 Apr 2016 10:05:00 +0000</pubDate>
+      
+      <guid>https://805bluebell.github.io/posts/read/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tuesday notes</title>
+      <link>https://805bluebell.github.io/posts/tuesday-notes/</link>
+      <pubDate>Tue, 22 Mar 2016 05:13:00 +0000</pubDate>
+      
+      <guid>https://805bluebell.github.io/posts/tuesday-notes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Don&#39;t know what to do</title>
+      <link>https://805bluebell.github.io/posts/dont-know-what-to-do/</link>
+      <pubDate>Mon, 14 Mar 2016 08:55:00 +0000</pubDate>
+      
+      <guid>https://805bluebell.github.io/posts/dont-know-what-to-do/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wanted decisions</title>
+      <link>https://805bluebell.github.io/posts/wanted-decisions/</link>
+      <pubDate>Fri, 11 Mar 2016 18:53:00 +0000</pubDate>
+      
+      <guid>https://805bluebell.github.io/posts/wanted-decisions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jyoti Yadav</title>
+      <link>https://805bluebell.github.io/posts/jyoti-yadav/</link>
+      <pubDate>Fri, 11 Mar 2016 00:31:00 +0000</pubDate>
+      
+      <guid>https://805bluebell.github.io/posts/jyoti-yadav/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sandhya Chowdhary 1.1</title>
+      <link>https://805bluebell.github.io/posts/sandhya-chowdhary-1.1/</link>
+      <pubDate>Tue, 08 Mar 2016 05:11:00 +0000</pubDate>
+      
+      <guid>https://805bluebell.github.io/posts/sandhya-chowdhary-1.1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Best Life Tips</title>
+      <link>https://805bluebell.github.io/posts/best-life-tips/</link>
+      <pubDate>Sun, 06 Mar 2016 09:37:00 +0000</pubDate>
+      
+      <guid>https://805bluebell.github.io/posts/best-life-tips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Failed ventures</title>
+      <link>https://805bluebell.github.io/posts/failed-ventures/</link>
+      <pubDate>Fri, 04 Mar 2016 09:17:00 +0000</pubDate>
+      
+      <guid>https://805bluebell.github.io/posts/failed-ventures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Industrial life begins</title>
+      <link>https://805bluebell.github.io/posts/industrial-life-begins/</link>
+      <pubDate>Wed, 05 Aug 2015 04:44:00 +0000</pubDate>
+      
+      <guid>https://805bluebell.github.io/posts/industrial-life-begins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resolution to move forward</title>
+      <link>https://805bluebell.github.io/posts/resolution-to-move-forward/</link>
+      <pubDate>Sun, 26 Jul 2015 10:31:00 +0000</pubDate>
+      
+      <guid>https://805bluebell.github.io/posts/resolution-to-move-forward/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>All India Bakchod - Raju Srivastava (Part 1)</title>
+      <link>https://805bluebell.github.io/posts/all-india-bakchod-raju-srivastava-part-1/</link>
+      <pubDate>Wed, 22 Apr 2015 03:04:00 +0000</pubDate>
+      
+      <guid>https://805bluebell.github.io/posts/all-india-bakchod-raju-srivastava-part-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Down side</title>
+      <link>https://805bluebell.github.io/posts/the-down-side/</link>
+      <pubDate>Mon, 05 Jan 2015 09:44:00 +0000</pubDate>
+      
+      <guid>https://805bluebell.github.io/posts/the-down-side/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Winter Holidays ending- review</title>
+      <link>https://805bluebell.github.io/posts/winter-holidays-ending-review/</link>
+      <pubDate>Fri, 02 Jan 2015 08:39:00 +0000</pubDate>
+      
+      <guid>https://805bluebell.github.io/posts/winter-holidays-ending-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of Connecting Rod - Machine Design term Project</title>
+      <link>https://805bluebell.github.io/posts/design-of-connecting-rod-machine-design-term-project/</link>
+      <pubDate>Tue, 30 Dec 2014 23:40:00 +0000</pubDate>
+      
+      <guid>https://805bluebell.github.io/posts/design-of-connecting-rod-machine-design-term-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trek to Kalavantin Durg</title>
+      <link>https://805bluebell.github.io/posts/trek-to-kalavantin-durg/</link>
+      <pubDate>Thu, 25 Dec 2014 21:47:00 +0000</pubDate>
+      
+      <guid>https://805bluebell.github.io/posts/trek-to-kalavantin-durg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Making Hull of RC Boat - Practise with mountboard</title>
+      <link>https://805bluebell.github.io/posts/making-hull-of-rc-boat-practise-with-mountboard/</link>
+      <pubDate>Thu, 18 Dec 2014 20:12:00 +0000</pubDate>
+      
+      <guid>https://805bluebell.github.io/posts/making-hull-of-rc-boat-practise-with-mountboard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inventory control with case study</title>
+      <link>https://805bluebell.github.io/posts/inventory-control-with-case-study/</link>
+      <pubDate>Mon, 27 Oct 2014 09:43:00 +0000</pubDate>
+      
+      <guid>https://805bluebell.github.io/posts/inventory-control-with-case-study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ones method - Operations Research </title>
+      <link>https://805bluebell.github.io/posts/ones-method-operations-research/</link>
+      <pubDate>Mon, 27 Oct 2014 09:41:00 +0000</pubDate>
+      
+      <guid>https://805bluebell.github.io/posts/ones-method-operations-research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Successful interview</title>
+      <link>https://805bluebell.github.io/posts/the-successful-interview/</link>
+      <pubDate>Wed, 08 Oct 2014 11:41:00 +0000</pubDate>
+      
+      <guid>https://805bluebell.github.io/posts/the-successful-interview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>You were not selected</title>
+      <link>https://805bluebell.github.io/posts/you-were-not-selected/</link>
+      <pubDate>Thu, 02 Oct 2014 01:03:00 +0000</pubDate>
+      
+      <guid>https://805bluebell.github.io/posts/you-were-not-selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Installing Ansys 15.0 x64</title>
+      <link>https://805bluebell.github.io/posts/installing-ansys-15.0-x64/</link>
+      <pubDate>Thu, 04 Sep 2014 05:58:00 +0000</pubDate>
+      
+      <guid>https://805bluebell.github.io/posts/installing-ansys-15.0-x64/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>30 Aug Aptitude test</title>
+      <link>https://805bluebell.github.io/posts/30-aug-aptitude-test/</link>
+      <pubDate>Sat, 30 Aug 2014 09:28:00 +0000</pubDate>
+      
+      <guid>https://805bluebell.github.io/posts/30-aug-aptitude-test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uhde India aptitude test , interview </title>
+      <link>https://805bluebell.github.io/posts/uhde-india-aptitude-test-interview/</link>
+      <pubDate>Thu, 21 Aug 2014 12:35:00 +0000</pubDate>
+      
+      <guid>https://805bluebell.github.io/posts/uhde-india-aptitude-test-interview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What are public sector companies ?</title>
+      <link>https://805bluebell.github.io/posts/what-are-public-sector-companies-/</link>
+      <pubDate>Wed, 13 Aug 2014 04:27:00 +0000</pubDate>
+      
+      <guid>https://805bluebell.github.io/posts/what-are-public-sector-companies-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Water and ICE melting</title>
+      <link>https://805bluebell.github.io/posts/water-and-ice-melting/</link>
+      <pubDate>Sun, 22 Jun 2014 08:47:00 +0000</pubDate>
+      
+      <guid>https://805bluebell.github.io/posts/water-and-ice-melting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rainy soccer</title>
+      <link>https://805bluebell.github.io/posts/rainy-soccer/</link>
+      <pubDate>Mon, 16 Jun 2014 09:27:00 +0000</pubDate>
+      
+      <guid>https://805bluebell.github.io/posts/rainy-soccer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bare Beginnings</title>
+      <link>https://805bluebell.github.io/posts/bare-beginnings/</link>
+      <pubDate>Fri, 13 Jun 2014 02:53:00 +0000</pubDate>
+      
+      <guid>https://805bluebell.github.io/posts/bare-beginnings/</guid>
+      <description></description>
     </item>
     
   </channel>
