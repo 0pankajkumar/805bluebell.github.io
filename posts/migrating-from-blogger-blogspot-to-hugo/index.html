@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Language" content="en">
+
+    <meta name="author" content="Pankaj Kumar">
+    <meta name="description" content="Migrating from Blogger / Blogspot to Hugo Enough of blogger now. It&rsquo;s a good and complete platform but I always want to try newer things. So, I have decided to move my 5-6 year old blog posts to Hugo. There are some 50 posts, I don&rsquo;t write a lot, but that&rsquo;s my treasure.
+Currently, it&rsquo;ll be hosted on Github with free domain provided but that shall improve in some time.">
+    <meta name="keywords" content="blog,developer,personal">
+
+    
+      <script src="https://twemoji.maxcdn.com/v/latest/twemoji.min.js" crossorigin="anonymous"></script>
+    
+
+    <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Migrating from Blogger / Blogspot to Hugo"/>
+<meta name="twitter:description" content="Migrating from Blogger / Blogspot to Hugo Enough of blogger now. It&rsquo;s a good and complete platform but I always want to try newer things. So, I have decided to move my 5-6 year old blog posts to Hugo. There are some 50 posts, I don&rsquo;t write a lot, but that&rsquo;s my treasure.
+Currently, it&rsquo;ll be hosted on Github with free domain provided but that shall improve in some time."/>
+
+    <meta property="og:title" content="Migrating from Blogger / Blogspot to Hugo" />
+<meta property="og:description" content="Migrating from Blogger / Blogspot to Hugo Enough of blogger now. It&rsquo;s a good and complete platform but I always want to try newer things. So, I have decided to move my 5-6 year old blog posts to Hugo. There are some 50 posts, I don&rsquo;t write a lot, but that&rsquo;s my treasure.
+Currently, it&rsquo;ll be hosted on Github with free domain provided but that shall improve in some time." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://805bluebell.github.io/posts/migrating-from-blogger-blogspot-to-hugo/" />
+<meta property="article:published_time" content="2020-09-08T00:00:00+00:00" />
+<meta property="article:modified_time" content="2020-09-08T00:00:00+00:00" />
+
+
+    
+      <base href="https://805bluebell.github.io/posts/migrating-from-blogger-blogspot-to-hugo/">
+    
+    <title>
+  Migrating from Blogger / Blogspot to Hugo · pankajkumar
+</title>
+
+    
+      <link rel="canonical" href="https://805bluebell.github.io/posts/migrating-from-blogger-blogspot-to-hugo/">
+    
+
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700%7CMerriweather:300,700%7CSource+Code+Pro:400,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css" integrity="sha384-Bfad6CLCknfcloXFOyFnlgtENryhrpZCe29RTifKEixXQZ38WheV+i/6YWSzkz3V" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" integrity="sha256-l85OmPOjvil/SOvVt3HnSSjzF1TUMyT9eV0c2BzEGzU=" crossorigin="anonymous" />
+
+    
+      
+      
+      <link rel="stylesheet" href="https://805bluebell.github.io/css/coder.min.0e5ce5b959a68dfe0232c6ddcec1e8ef154517c968464707f3181c437fe611c0.css" integrity="sha256-DlzluVmmjf4CMsbdzsHo7xVFF8loRkcH8xgcQ3/mEcA=" crossorigin="anonymous" media="screen" />
+    
+
+    
+
+    
+      
+        
+        
+        <link rel="stylesheet" href="https://805bluebell.github.io/css/coder-dark.min.717236c74e0a5208ef73964a9f44c6b443b689a95b270d8b2a40d0c012460dac.css" integrity="sha256-cXI2x04KUgjvc5ZKn0TGtEO2ialbJw2LKkDQwBJGDaw=" crossorigin="anonymous" media="screen" />
+      
+    
+
+    
+
+    
+
+    <link rel="icon" type="image/png" href="https://805bluebell.github.io/images/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="https://805bluebell.github.io/images/favicon-16x16.png" sizes="16x16">
+
+    <meta name="generator" content="Hugo 0.69.0" />
+  </head>
+  
+  
+  
+    
+  
+  <body class="colorscheme-auto"
+        onload=" twemoji.parse(document.body); "
+  >
+    <main class="wrapper">
+      <nav class="navigation">
+  <section class="container">
+    <a class="navigation-title" href="https://805bluebell.github.io/">
+      pankajkumar
+    </a>
+    
+      <span id="dark-mode-toggle" class="float-right">
+        <i class="fas fa-adjust fa-fw"></i>
+      </span>
+      <input type="checkbox" id="menu-toggle" />
+      <label class="menu-button float-right" for="menu-toggle">
+        <i class="fas fa-bars fa-fw"></i>
+      </label>
+      <ul class="navigation-list">
+        
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="https://805bluebell.github.io/about/">About</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="https://805bluebell.github.io/posts/">Blog</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="https://805bluebell.github.io/projects/">Projects</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="https://805bluebell.github.io/contact/">Contact me</a>
+            </li>
+          
+        
+        
+        <li class="navigation-item separator">
+          <span>|</span>
+        </li>
+      </ul>
+    
+  </section>
+</nav>
+
+
+      <div class="content">
+        
+  <section class="container post">
+    <article>
+      <header>
+        <div class="post-title">
+          <h1 class="title">Migrating from Blogger / Blogspot to Hugo</h1>
+        </div>
+        <div class="post-meta">
+          <div class="date">
+            <span class="posted-on">
+              <i class="fas fa-calendar"></i>
+              <time datetime='2020-09-08T00:00:00Z'>
+                September 8, 2020
+              </time>
+            </span>
+            <span class="reading-time">
+              <i class="fas fa-clock"></i>
+              3-minute read
+            </span>
+          </div>
+          <div class="categories">
+  <i class="fas fa-folder"></i>
+    <a href="https://805bluebell.github.io/categories/technology/">technology</a></div>
+
+          <div class="tags">
+  <i class="fas fa-tag"></i>
+    <a href="https://805bluebell.github.io/tags/blogging/">blogging</a>
+      <span class="separator">•</span>
+    <a href="https://805bluebell.github.io/tags/blogger/">blogger</a>
+      <span class="separator">•</span>
+    <a href="https://805bluebell.github.io/tags/hugo/">hugo</a>
+      <span class="separator">•</span>
+    <a href="https://805bluebell.github.io/tags/migration/">migration</a></div>
+
+        </div>
+      </header>
+
+      <div>
+        
+        <h2 id="migrating-from-blogger--blogspot-to-hugo">Migrating from Blogger / Blogspot to Hugo</h2>
+<p>Enough of blogger now. It&rsquo;s a good and complete platform but I always want to try newer things. So, I have decided to move my 5-6 year old blog posts to Hugo. There are some 50 posts, I don&rsquo;t write a lot, but that&rsquo;s my treasure.</p>
+<p>Currently, it&rsquo;ll be hosted on Github with free domain provided but that shall improve in some time.</p>
+<h3 id="steps">Steps</h3>
+<ol>
+<li>
+<p>Download or export the XML from blogger.com which will have all the blogs.</p>
+</li>
+<li>
+<p>Convert the XML file into Markdown or .md format using <a href="https://github.com/natefinch/blogimport">Blogimport</a> tool or choose from <a href="https://gohugo.io/tools/migrations/">this list</a>.
+The tool is really basic, you just pass it the name of the file you&rsquo;re converting, the directory in which to output the markdown files.
+Example:
+<code>go run main.go blog-09-06-2020.xml /output</code></p>
+</li>
+</ol>
+<p>And ofcourse you need to have <a href="https://golang.org/">golang</a> to do that.</p>
+<ol start="3">
+<li>
+<p>Once all Markdown files are generated a lot of work is done. But you&rsquo;ll notice that body of the blog is still HTML and nested HTML is not rendered by Hugo. It&rsquo;s such a bad thing.</p>
+</li>
+<li>
+<p>Convert HTML to Markdown syntax using some tool.
+I have used <code>markdownify</code>. Thanks to <a href="https://brianli.com/python-convert-html-markdown/">brianli</a>.</p>
+<ul>
+<li>Just install <code>markdownify</code> like this</li>
+</ul>
+</li>
+</ol>
+<div class="highlight"><pre style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">pip install markdownify
+</code></pre></div><p>And start using like this</p>
+<div class="highlight"><pre style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">from markdownify import markdownify
+
+html = markdownify(&#34;&lt;h1&gt;Hugo is fast!&lt;/h1&gt;&#34;)
+
+print(html)
+
+# Hugo is fast!
+# ===========
+</code></pre></div><p>But you&rsquo;ll have to manually separate the html from markdown files generated above. I wrote a python script to automate that.</p>
+<div class="highlight"><pre style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">import os
+import glob
+from markdownify import markdownify
+
+pathToRead = &#39;/home/pankaj/Documents/blogimport/posts&#39;
+pathToWrite = &#39;/home/pankaj/Documents/blogimport/posts_cleaned&#39;
+
+def seperateHTML(rawText):
+	startOfTOML = 1
+	&#34;&#34;&#34;
+	1: just started, 2: reading TOML, 3: Done with TOML
+	&#34;&#34;&#34;
+	tomlLines = list()
+	htmlLines = list()
+
+	for r in rawText:
+		if r == &#34;+++\n&#34;:
+			if startOfTOML == 1:
+				startOfTOML = 2
+			elif startOfTOML == 2:
+				startOfTOML = 3
+				tomlLines.append(r)
+				continue
+
+		if startOfTOML == 2:
+			tomlLines.append(r)
+
+		if startOfTOML == 3:
+			htmlLines.append(r)
+
+	return &#39;&#39;.join(tomlLines), &#39;&#39;.join(htmlLines)
+
+
+
+
+for filename in glob.glob(os.path.join(pathToRead, &#39;*.md&#39;)):
+	with open(filename, &#39;r&#39;) as f:
+		entireText = f.readlines()
+		tomlLines, htmlLines = seperateHTML(entireText)
+
+		try:
+			htmlLines = markdownify(htmlLines)
+		except:
+			htmlLines = htmlLines
+
+		fileNameToWrite = f.name.split(&#39;/&#39;)[-1]
+
+		with open(os.path.join(pathToWrite, fileNameToWrite), &#34;w&#34;) as fr:
+			print(&#34;writing to file&#34;)
+			fr.write(tomlLines)
+			fr.write(htmlLines)
+
+</code></pre></div><p>This will convert most of the files &amp; write it into the folder specified. Make sure to modify the paths (pathToRead, pathToWrite) accordingly.</p>
+<ol start="5">
+<li>
+<p>This cleared up most of my HTML into Markdown and everything was beautiful.
+But one or two files might have extra flowing garbage text which you have to remove by yourself. Like the ones shown below. Clean them up manually.
+<img src="https://i.imgur.com/l7m1fdB.png" alt="Blogger garbage text"></p>
+</li>
+<li>
+<p>It&rsquo;s done.
+It was painful but a lot of tools helped you do hours of work with a few keystrokes. Thank them.</p>
+</li>
+</ol>
+
+      </div>
+
+
+      <footer>
+        
+
+
+        <div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "yourdiscussshortname" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+        
+        
+      </footer>
+    </article>
+
+    
+  </section>
+
+      </div>
+
+      
+  <footer class="footer">
+    <section class="container">
+      
+        <p>You are what you imagine.</p>
+      
+      
+        ©
+        
+          2014 -
+        
+        2020
+         Pankaj Kumar 
+      
+      
+         · 
+        Powered by <a href="https://gohugo.io/">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/">Coder</a>.
+      
+      
+        
+      
+    </section>
+  </footer>
+
+    </main>
+
+    
+      
+      <script src="https://805bluebell.github.io/js/dark-mode.min.0213e1773e6d1c5a644f847c67a6f8abac49a3776e2976f6008038af8c5b76a1.js"></script>
+    
+
+    
+
+    
+
+    <script>
+(function(f, a, t, h, o, m){
+	a[h]=a[h]||function(){
+		(a[h].q=a[h].q||[]).push(arguments)
+	};
+	o=f.createElement('script'),
+	m=f.getElementsByTagName('script')[0];
+	o.async=1; o.src=t; o.id='fathom-script';
+	m.parentNode.insertBefore(o,m)
+})(document, window, '//analytics.example.com/tracker.js', 'fathom');
+fathom('set', 'siteId', 'ABCDE');
+fathom('trackPageview');
+</script>
+
+
+    <script async defer data-domain=”example.com” src=”https://analytics.example.com/js/index.js”></script> 
+
+
+  </body>
+
+</html>
